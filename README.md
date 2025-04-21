@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/74438926-8fd8-4635-aa37-442548846f08" alt="Logo" width="250"/>
+<img src="https://github.com/user-attachments/assets/4459b16a-0808-4c37-9f74-57f000225563" alt="Logo" width="250"/>
 </p>
 
 <h1 align="center">🎓 Mini Resource Sharing Hub</h1>
@@ -26,17 +26,16 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05ddde68-3c30-4d09-aeef-5f2ce8613144" alt="Login Screen" width="250"/>
-  <img src="https://github.com/user-attachments/assets/ea245cdd-7445-4113-aae5-f01aa6c5f28c" alt="File view" width="250"/>
-  <img src="https://github.com/user-attachments/assets/747ab26e-27ce-4f33-926c-c19375d47c92" alt="Upload preview" width="250"/>
+  <img src="https://github.com/user-attachments/assets/2fd5b090-6ce3-44f3-b5c5-842cfa2e62ef" alt="Login Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3ba2eb2d-e94e-4b2d-98b8-8bfb9b0e4c43" alt="File view" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4193c662-6b81-445a-86e8-96227819a37e" alt="Upload preview" width="250"/>
 </p>
-
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Clone the repo:** git clone https://github.com/nixsh5/mrs-hub.git
+1. **Clone the repo:** git clone https://github.com/nixsh5/MRSHub
 2. **Open in Android Studio.**
 3. **Connect your own Firebase project:**
 - Replace `google-services.json` with your own.
