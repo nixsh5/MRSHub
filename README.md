@@ -16,7 +16,6 @@
 - 📤 **Upload, preview, download, and delete** files (images, PDFs, DOCX, etc.)
 - 🖼️ **In-app image and PDF preview**
 - 📝 **DOC/DOCX preview** via Google Docs/Word (secure, temporary file sharing)
-- 🔍 **Search and filter** files by name, description, or uploader
 - 🎨 **Material 3 UI**
 - 🗑️ **Only uploader can delete their files**
 - ℹ️ **About dialog** with app info and GitHub link
